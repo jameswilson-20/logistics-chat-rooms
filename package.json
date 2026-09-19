@@ -1,0 +1,8 @@
+{
+  "name": "logistics-chat-rooms",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"start": "node --import tsx src/shipment_chat.ts", "test": "node --import tsx src/shipment_chat.test.ts", "typecheck": "tsc --noEmit"},
+  "dependencies": {"zod": "^3.23.8"},
+  "devDependencies": {"tsx": "^4.19.0", "typescript": "^5.6.2"}
+}
