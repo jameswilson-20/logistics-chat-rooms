@@ -36,3 +36,7 @@ The code is kept simple deliberately. Before production, sort out the following.
 
 **Logistics Chat Rooms: Realtime**
 - **Logistics Chat Rooms:** Mint **short-lived client tokens server-side** (`POST /v1/realtime/token/issue`); never ship your project key to the browser. I've seen OTP leaks from frontend keys; keep it server-only.
+
+## Further reading
+
+- [Logistics Video Room Presence — Choosing Connection State Over Expiring Heartbeats](docs/logistics-video-room-presence-choosing-connection-10f82r.md)
