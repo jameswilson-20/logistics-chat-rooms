@@ -39,4 +39,5 @@ The code is kept simple deliberately. Before production, sort out the following.
 
 ## Further reading
 
+- [Node.js WebSockets Over WebRTC for IoT Device Status Live Dashboards](docs/node-js-websockets-over-webrtc-for-iot-device-sta-yl0xqf.md)
 - [Logistics Video Room Presence — Choosing Connection State Over Expiring Heartbeats](docs/logistics-video-room-presence-choosing-connection-10f82r.md)
